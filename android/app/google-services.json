@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950523038619",
+    "project_id": "rnfirebasechatapp-9331d",
+    "storage_bucket": "rnfirebasechatapp-9331d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950523038619:android:f1efce1dfdb490a5ca2f3e",
+        "android_client_info": {
+          "package_name": "com.giftedchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUR366tm0LR382bb96Qw4wEZEenIUX3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
